@@ -6,3 +6,15 @@
 ``` javascript
 let greeting = "Cheers to 446th Bulacan Founding Anniversary!";
 ```
+
+#### How many Bulakenyo vocabulary do I know?
+- [x] Inin
+- [x] Kampit
+- [ ] Tahip
+- [x] Urong
+- [x] Gara
+- [x] Ika / Eka
+- [x] Babag
+- [x] Balanggot
+- [ ] Dalahira
+- [x] Gayak
